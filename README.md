@@ -112,3 +112,10 @@ int factorial(int num) {
 * 3rd : num = 2 * factorial(1) = 2 * 1 = 2
 */
 ```
+
+## HTML Lib
+
+Library to create and manipulate HTML from Dart.
+
+Create elements like `AreaElement, BRElement, ButtonElement, InputElement`
+You can find the full list of elements in the [Docs page](https://api.dartlang.org/apidocs/channels/be/dartdoc-viewer/dart:html)
